@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632146055444",
+    "project_id": "ecommerce-wael-e25e5",
+    "storage_bucket": "ecommerce-wael-e25e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632146055444:android:ea417b09b6c466a6ecf201",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_wael"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRL5PRknkFROLtJLx6V-KrDmFM0ezIy1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
